@@ -1,0 +1,17 @@
+{
+  "name": "lish-test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "node index.js"
+  },
+  "author": "Lishenga Shiluli",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
